@@ -1,0 +1,17 @@
+Algoritmo "Mensagem de Boas vindas a uma pessoa"
+// 
+//  
+// Descrição   : programa que leia o nome de uma pessoa e mostre uma mensagem de boas vindas
+// Autor(a)    : Rafael Almeida Pará-Assú
+// Data atual  : 30/04/2023
+Var
+   Nome, msg: caractere
+
+
+Inicio
+  Escreva ("Digite seu nome: ")
+  Leia (Nome)
+  msg <- ("Bem vindo (a) ")
+  Escreva (msg, Nome)
+
+Fimalgoritmo
