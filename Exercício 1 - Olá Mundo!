@@ -1,0 +1,15 @@
+Algoritmo "Olá Mundo!"
+// 
+//  
+// Descrição   : Mensagem Olá, mundo na tela!
+// Autor(a)    : Rafael Almeida Pará-Assú
+// Data atual  : 30/04/2023
+Var
+
+
+
+Inicio
+      Escreva ("Olá mundo! ")
+
+
+Fimalgoritmo
